@@ -396,7 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea
 
 
 # Runsettings files
 .runsettings
+
+

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1", "Day1\Day1.csproj", "{80446CCA-788F-4579-A9D9-774D634C1F2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventSolutions", "AdventSolutions\AdventSolutions.csproj", "{80446CCA-788F-4579-A9D9-774D634C1F2F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventUtils", "AdventUtils\AdventUtils.csproj", "{E8AB85D1-77E7-4137-B0D1-05FB930FAC5D}"
 EndProject

@@ -4,7 +4,7 @@ using System.Net.Http;
 
 namespace AdventUtils
 {
-    public class Input
+    public static class Input
     {
         public static async Task<string> GetInputAsync(int day)
         {

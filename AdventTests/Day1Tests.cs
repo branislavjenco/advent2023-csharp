@@ -1,5 +1,5 @@
 using AdventUtils;
-using static Day1.Program;
+using static AdventSolutions.Day1;
 
 namespace AdventTests
 {

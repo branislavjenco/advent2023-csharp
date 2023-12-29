@@ -1,10 +1,9 @@
-﻿using System;
-using System.Text;
+﻿using System.Text;
 using AdventUtils;
 
-namespace Day1
+namespace AdventSolutions
 {
-    public class Program
+    public static class Day1
     {
         public static int SolvePart1(string input)
         {

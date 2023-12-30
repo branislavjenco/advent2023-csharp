@@ -402,4 +402,5 @@ FodyWeavers.xsd
 # Runsettings files
 .runsettings
 
-
+# Input cache
+.cache
